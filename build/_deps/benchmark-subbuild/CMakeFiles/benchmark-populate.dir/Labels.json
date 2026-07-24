@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-subbuild/CMakeFiles/benchmark-populate"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-subbuild/CMakeFiles/benchmark-populate.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-subbuild/CMakeFiles/benchmark-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"benchmark-populate"
+		],
+		"name" : "benchmark-populate"
+	}
+}

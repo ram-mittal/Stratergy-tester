@@ -1,0 +1,24 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/admin/Desktop/project 2/build/cmake_install.cmake",
+		"C:/Users/admin/Desktop/project 2/build/ultralob/cmake_install.cmake",
+		"C:/Users/admin/Desktop/project 2/build/_deps/googletest-build/cmake_install.cmake",
+		"C:/Users/admin/Desktop/project 2/build/_deps/googletest-build/googletest/cmake_install.cmake",
+		"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/cmake_install.cmake",
+		"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/cmake_install.cmake",
+		"C:/Users/admin/Desktop/project 2/build/ultralob/tests/cmake_install.cmake",
+		"C:/Users/admin/Desktop/project 2/build/ultralob/bench/cmake_install.cmake",
+		"C:/Users/admin/Desktop/project 2/build/_deps/fmt-build/cmake_install.cmake",
+		"C:/Users/admin/Desktop/project 2/build/_deps/spdlog-build/cmake_install.cmake",
+		"C:/Users/admin/Desktop/project 2/build/_deps/cli11-build/cmake_install.cmake",
+		"C:/Users/admin/Desktop/project 2/build/_deps/cli11-build/fuzz/cmake_install.cmake",
+		"C:/Users/admin/Desktop/project 2/build/_deps/cli11-build/src/cmake_install.cmake",
+		"C:/Users/admin/Desktop/project 2/build/_deps/cli11-build/single-include/cmake_install.cmake",
+		"C:/Users/admin/Desktop/project 2/build/tests/cmake_install.cmake",
+		"C:/Users/admin/Desktop/project 2/build/benchmarks/cmake_install.cmake",
+		"C:/Users/admin/Desktop/project 2/build/bindings/python/cmake_install.cmake",
+		"C:/Users/admin/Desktop/project 2/build/_deps/pybind11-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

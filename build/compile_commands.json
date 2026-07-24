@@ -1,0 +1,380 @@
+[
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DULTRABACKTEST_VERSION=\\\"0.1.0\\\" -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -I\"C:/Users/admin/Desktop/project 2/include\" -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o CMakeFiles\\ultrabacktest.dir\\src\\replay_engine.cpp.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\src\\replay_engine.cpp\"",
+  "file": "C:/Users/admin/Desktop/project 2/src/replay_engine.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/CMakeFiles/ultrabacktest.dir/src/replay_engine.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DULTRABACKTEST_VERSION=\\\"0.1.0\\\" -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -I\"C:/Users/admin/Desktop/project 2/include\" -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o CMakeFiles\\ultrabacktest.dir\\src\\exchange_simulator.cpp.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\src\\exchange_simulator.cpp\"",
+  "file": "C:/Users/admin/Desktop/project 2/src/exchange_simulator.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/CMakeFiles/ultrabacktest.dir/src/exchange_simulator.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DULTRABACKTEST_VERSION=\\\"0.1.0\\\" -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -I\"C:/Users/admin/Desktop/project 2/include\" -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o CMakeFiles\\ultrabacktest.dir\\src\\portfolio.cpp.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\src\\portfolio.cpp\"",
+  "file": "C:/Users/admin/Desktop/project 2/src/portfolio.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/CMakeFiles/ultrabacktest.dir/src/portfolio.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DULTRABACKTEST_VERSION=\\\"0.1.0\\\" -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -I\"C:/Users/admin/Desktop/project 2/include\" -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o CMakeFiles\\ultrabacktest.dir\\src\\risk_engine.cpp.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\src\\risk_engine.cpp\"",
+  "file": "C:/Users/admin/Desktop/project 2/src/risk_engine.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/CMakeFiles/ultrabacktest.dir/src/risk_engine.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DULTRABACKTEST_VERSION=\\\"0.1.0\\\" -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -I\"C:/Users/admin/Desktop/project 2/include\" -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o CMakeFiles\\ultrabacktest.dir\\src\\performance.cpp.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\src\\performance.cpp\"",
+  "file": "C:/Users/admin/Desktop/project 2/src/performance.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/CMakeFiles/ultrabacktest.dir/src/performance.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o ultralob\\CMakeFiles\\ultralob.dir\\src\\order_book.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\src\\order_book.cpp",
+  "file": "C:/Users/admin/Desktop/system/src/order_book.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/CMakeFiles/ultralob.dir/src/order_book.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o ultralob\\CMakeFiles\\ultralob.dir\\src\\matching_engine.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\src\\matching_engine.cpp",
+  "file": "C:/Users/admin/Desktop/system/src/matching_engine.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/CMakeFiles/ultralob.dir/src/matching_engine.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o ultralob\\CMakeFiles\\ultralob.dir\\src\\statistics.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\src\\statistics.cpp",
+  "file": "C:/Users/admin/Desktop/system/src/statistics.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/CMakeFiles/ultralob.dir/src/statistics.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o ultralob\\CMakeFiles\\ultralob.dir\\src\\exchange_node.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\src\\exchange_node.cpp",
+  "file": "C:/Users/admin/Desktop/system/src/exchange_node.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/CMakeFiles/ultralob.dir/src/exchange_node.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o ultralob\\CMakeFiles\\ultralob.dir\\src\\journal.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\src\\journal.cpp",
+  "file": "C:/Users/admin/Desktop/system/src/journal.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/CMakeFiles/ultralob.dir/src/journal.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o ultralob\\CMakeFiles\\ultralob.dir\\src\\risk_engine.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\src\\risk_engine.cpp",
+  "file": "C:/Users/admin/Desktop/system/src/risk_engine.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/CMakeFiles/ultralob.dir/src/risk_engine.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o ultralob\\CMakeFiles\\ultralob_server.dir\\server\\main.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\server\\main.cpp",
+  "file": "C:/Users/admin/Desktop/system/server/main.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/CMakeFiles/ultralob_server.dir/server/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -I\"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest\" -O3 -DNDEBUG -std=c++20 -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=0 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest\" -O3 -DNDEBUG -std=c++20 -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=0 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -DBENCHMARK_VERSION=\\\"v1.9.1\\\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\benchmark.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/benchmark.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark.dir/benchmark.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark_api_internal.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\benchmark_api_internal.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/benchmark_api_internal.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark.dir/benchmark_api_internal.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark_name.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\benchmark_name.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/benchmark_name.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark.dir/benchmark_name.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark_register.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\benchmark_register.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/benchmark_register.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark.dir/benchmark_register.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark_runner.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\benchmark_runner.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/benchmark_runner.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark.dir/benchmark_runner.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark.dir\\check.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\check.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/check.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark.dir/check.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark.dir\\colorprint.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\colorprint.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/colorprint.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark.dir/colorprint.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark.dir\\commandlineflags.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\commandlineflags.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/commandlineflags.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark.dir/commandlineflags.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark.dir\\complexity.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\complexity.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/complexity.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark.dir/complexity.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark.dir\\console_reporter.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\console_reporter.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/console_reporter.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark.dir/console_reporter.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark.dir\\counter.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\counter.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/counter.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark.dir/counter.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark.dir\\csv_reporter.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\csv_reporter.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/csv_reporter.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark.dir/csv_reporter.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark.dir\\json_reporter.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\json_reporter.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/json_reporter.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark.dir/json_reporter.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark.dir\\perf_counters.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\perf_counters.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/perf_counters.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark.dir/perf_counters.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark.dir\\reporter.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\reporter.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/reporter.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark.dir/reporter.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark.dir\\statistics.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\statistics.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/statistics.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark.dir/statistics.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark.dir\\string_util.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\string_util.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/string_util.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark.dir/string_util.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark.dir\\sysinfo.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\sysinfo.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/sysinfo.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark.dir/sysinfo.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark.dir\\timers.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\timers.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/timers.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark.dir/timers.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src\"   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -O3 -DNDEBUG -std=c++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\benchmark-build\\src\\CMakeFiles\\benchmark_main.dir\\benchmark_main.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\benchmark-src\\src\\benchmark_main.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/src/benchmark_main.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/benchmark-build/src/CMakeFiles/benchmark_main.dir/benchmark_main.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -fexceptions -o ultralob\\tests\\CMakeFiles\\test_order_book.dir\\test_order_book.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\tests\\test_order_book.cpp",
+  "file": "C:/Users/admin/Desktop/system/tests/test_order_book.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/tests/CMakeFiles/test_order_book.dir/test_order_book.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -fexceptions -o ultralob\\tests\\CMakeFiles\\test_matching.dir\\test_matching.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\tests\\test_matching.cpp",
+  "file": "C:/Users/admin/Desktop/system/tests/test_matching.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/tests/CMakeFiles/test_matching.dir/test_matching.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -fexceptions -o ultralob\\tests\\CMakeFiles\\test_order_types.dir\\test_order_types.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\tests\\test_order_types.cpp",
+  "file": "C:/Users/admin/Desktop/system/tests/test_order_types.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/tests/CMakeFiles/test_order_types.dir/test_order_types.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -fexceptions -o ultralob\\tests\\CMakeFiles\\test_statistics.dir\\test_statistics.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\tests\\test_statistics.cpp",
+  "file": "C:/Users/admin/Desktop/system/tests/test_statistics.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/tests/CMakeFiles/test_statistics.dir/test_statistics.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -fexceptions -o ultralob\\tests\\CMakeFiles\\test_exchange_node.dir\\test_exchange_node.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\tests\\test_exchange_node.cpp",
+  "file": "C:/Users/admin/Desktop/system/tests/test_exchange_node.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/tests/CMakeFiles/test_exchange_node.dir/test_exchange_node.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -fexceptions -o ultralob\\tests\\CMakeFiles\\test_gateway.dir\\test_gateway.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\tests\\test_gateway.cpp",
+  "file": "C:/Users/admin/Desktop/system/tests/test_gateway.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/tests/CMakeFiles/test_gateway.dir/test_gateway.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -fexceptions -o ultralob\\tests\\CMakeFiles\\test_journal.dir\\test_journal.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\tests\\test_journal.cpp",
+  "file": "C:/Users/admin/Desktop/system/tests/test_journal.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/tests/CMakeFiles/test_journal.dir/test_journal.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -fexceptions -o ultralob\\tests\\CMakeFiles\\test_risk_engine.dir\\test_risk_engine.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\tests\\test_risk_engine.cpp",
+  "file": "C:/Users/admin/Desktop/system/tests/test_risk_engine.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/tests/CMakeFiles/test_risk_engine.dir/test_risk_engine.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DBENCHMARK_STATIC_DEFINE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -fexceptions -o ultralob\\bench\\CMakeFiles\\bench_throughput.dir\\bench_throughput.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\bench\\bench_throughput.cpp",
+  "file": "C:/Users/admin/Desktop/system/bench/bench_throughput.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/bench/CMakeFiles/bench_throughput.dir/bench_throughput.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DBENCHMARK_STATIC_DEFINE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -fexceptions -o ultralob\\bench\\CMakeFiles\\bench_latency.dir\\bench_latency.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\bench\\bench_latency.cpp",
+  "file": "C:/Users/admin/Desktop/system/bench/bench_latency.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/bench/CMakeFiles/bench_latency.dir/bench_latency.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DBENCHMARK_STATIC_DEFINE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -fexceptions -o ultralob\\bench\\CMakeFiles\\bench_sequencer.dir\\bench_sequencer.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\bench\\bench_sequencer.cpp",
+  "file": "C:/Users/admin/Desktop/system/bench/bench_sequencer.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/bench/CMakeFiles/bench_sequencer.dir/bench_sequencer.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DBENCHMARK_STATIC_DEFINE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -fexceptions -o ultralob\\bench\\CMakeFiles\\bench_journal.dir\\bench_journal.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\bench\\bench_journal.cpp",
+  "file": "C:/Users/admin/Desktop/system/bench/bench_journal.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/bench/CMakeFiles/bench_journal.dir/bench_journal.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DBENCHMARK_STATIC_DEFINE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -fexceptions -o ultralob\\bench\\CMakeFiles\\bench_profiler.dir\\bench_profiler.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\bench\\bench_profiler.cpp",
+  "file": "C:/Users/admin/Desktop/system/bench/bench_profiler.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/bench/CMakeFiles/bench_profiler.dir/bench_profiler.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DBENCHMARK_STATIC_DEFINE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -fexceptions -o ultralob\\bench\\CMakeFiles\\bench_memory.dir\\bench_memory.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\bench\\bench_memory.cpp",
+  "file": "C:/Users/admin/Desktop/system/bench/bench_memory.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/bench/CMakeFiles/bench_memory.dir/bench_memory.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DBENCHMARK_STATIC_DEFINE -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -fexceptions -o ultralob\\bench\\CMakeFiles\\bench_scaling.dir\\bench_scaling.cpp.obj -c C:\\Users\\admin\\Desktop\\system\\bench\\bench_scaling.cpp",
+  "file": "C:/Users/admin/Desktop/system/bench/bench_scaling.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/ultralob/bench/CMakeFiles/bench_scaling.dir/bench_scaling.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -I\"C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\fmt-build\\CMakeFiles\\fmt.dir\\src\\format.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\fmt-src\\src\\format.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/src/format.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -I\"C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\fmt-build\\CMakeFiles\\fmt.dir\\src\\os.cc.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\fmt-src\\src\\os.cc\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/src/os.cc",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_FWRITE_UNLOCKED -I\"C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\spdlog.cpp.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\spdlog-src\\src\\spdlog.cpp\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/src/spdlog.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/spdlog-build/CMakeFiles/spdlog.dir/src/spdlog.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_FWRITE_UNLOCKED -I\"C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\stdout_sinks.cpp.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\spdlog-src\\src\\stdout_sinks.cpp\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/src/stdout_sinks.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/spdlog-build/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_FWRITE_UNLOCKED -I\"C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\color_sinks.cpp.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\spdlog-src\\src\\color_sinks.cpp\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/src/color_sinks.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/spdlog-build/CMakeFiles/spdlog.dir/src/color_sinks.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_FWRITE_UNLOCKED -I\"C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\file_sinks.cpp.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\spdlog-src\\src\\file_sinks.cpp\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/src/file_sinks.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/spdlog-build/CMakeFiles/spdlog.dir/src/file_sinks.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_FWRITE_UNLOCKED -I\"C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\async.cpp.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\spdlog-src\\src\\async.cpp\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/src/async.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/spdlog-build/CMakeFiles/spdlog.dir/src/async.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_FWRITE_UNLOCKED -I\"C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\cfg.cpp.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\build\\_deps\\spdlog-src\\src\\cfg.cpp\"",
+  "file": "C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/src/cfg.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/_deps/spdlog-build/CMakeFiles/spdlog.dir/src/cfg.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DULTRABACKTEST_VERSION=\\\"0.1.0\\\" -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -I\"C:/Users/admin/Desktop/project 2/include\" -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o tests\\CMakeFiles\\ultrabacktest_test_event.dir\\test_event.cpp.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\tests\\test_event.cpp\"",
+  "file": "C:/Users/admin/Desktop/project 2/tests/test_event.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/tests/CMakeFiles/ultrabacktest_test_event.dir/test_event.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DULTRABACKTEST_VERSION=\\\"0.1.0\\\" -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -I\"C:/Users/admin/Desktop/project 2/include\" -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o tests\\CMakeFiles\\ultrabacktest_test_exchange_sim.dir\\test_exchange_simulator.cpp.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\tests\\test_exchange_simulator.cpp\"",
+  "file": "C:/Users/admin/Desktop/project 2/tests/test_exchange_simulator.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/tests/CMakeFiles/ultrabacktest_test_exchange_sim.dir/test_exchange_simulator.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DULTRABACKTEST_VERSION=\\\"0.1.0\\\" -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -I\"C:/Users/admin/Desktop/project 2/include\" -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o tests\\CMakeFiles\\ultrabacktest_test_portfolio.dir\\test_portfolio.cpp.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\tests\\test_portfolio.cpp\"",
+  "file": "C:/Users/admin/Desktop/project 2/tests/test_portfolio.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/tests/CMakeFiles/ultrabacktest_test_portfolio.dir/test_portfolio.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DULTRABACKTEST_VERSION=\\\"0.1.0\\\" -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -I\"C:/Users/admin/Desktop/project 2/include\" -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/googletest-src/googletest\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o tests\\CMakeFiles\\ultrabacktest_test_risk.dir\\test_risk.cpp.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\tests\\test_risk.cpp\"",
+  "file": "C:/Users/admin/Desktop/project 2/tests/test_risk.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/tests/CMakeFiles/ultrabacktest_test_risk.dir/test_risk.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DBENCHMARK_STATIC_DEFINE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DULTRABACKTEST_VERSION=\\\"0.1.0\\\" -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -I\"C:/Users/admin/Desktop/project 2/include\" -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/benchmark-src/include\" -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o benchmarks\\CMakeFiles\\bench_replay.dir\\bench_replay.cpp.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\benchmarks\\bench_replay.cpp\"",
+  "file": "C:/Users/admin/Desktop/project 2/benchmarks/bench_replay.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/benchmarks/CMakeFiles/bench_replay.dir/bench_replay.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/Desktop/project 2/build",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ziglang\\zig.exe  c++ -DASIO_NO_TYPEID -DASIO_STANDALONE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DULTRABACKTEST_PYBIND -DULTRABACKTEST_VERSION=\\\"0.1.0\\\" -DULTRALOB_PROFILING=1 -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0601 -Dultrabacktest_py_EXPORTS -I\"C:/Users/admin/Desktop/project 2/include\" -IC:/Users/admin/Desktop/system/include -I\"C:/Users/admin/Desktop/project 2/build/_deps/asio-src/asio/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/fmt-src/include\" -I\"C:/Users/admin/Desktop/project 2/build/_deps/spdlog-src/include\" -isystem \"C:/Users/admin/Desktop/project 2/build/_deps/pybind11-src/include\" -isystem C:/Users/admin/AppData/Local/Programs/Python/Python312/Include -O3 -DNDEBUG -std=c++20 -fvisibility=hidden -Wall -Wextra -Wpedantic -O3 -mavx2 -mfma -Wno-unused-parameter -Wno-missing-field-initializers -include stdlib.h -o bindings\\python\\CMakeFiles\\ultrabacktest_py.dir\\module.cpp.obj -c \"C:\\Users\\admin\\Desktop\\project 2\\bindings\\python\\module.cpp\"",
+  "file": "C:/Users/admin/Desktop/project 2/bindings/python/module.cpp",
+  "output": "C:/Users/admin/Desktop/project 2/build/bindings/python/CMakeFiles/ultrabacktest_py.dir/module.cpp.obj"
+}
+]

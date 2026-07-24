@@ -1,0 +1,21 @@
+# ninja log v7
+4	123	8063482273397179	pybind11-populate-prefix/src/pybind11-populate-stamp/pybind11-populate-mkdir	da7004d0b1dffcca
+4	123	8063482273397179	C:/Users/admin/Desktop/project 2/build/_deps/pybind11-subbuild/pybind11-populate-prefix/src/pybind11-populate-stamp/pybind11-populate-mkdir	da7004d0b1dffcca
+123	5022	8063482322360749	pybind11-populate-prefix/src/pybind11-populate-stamp/pybind11-populate-download	5e03e0bae94ade9b
+123	5022	8063482322360749	C:/Users/admin/Desktop/project 2/build/_deps/pybind11-subbuild/pybind11-populate-prefix/src/pybind11-populate-stamp/pybind11-populate-download	5e03e0bae94ade9b
+5023	5432	8063482322526402	pybind11-populate-prefix/src/pybind11-populate-stamp/pybind11-populate-update	fe773bdd78dfcd70
+5023	5432	8063482322526402	C:/Users/admin/Desktop/project 2/build/_deps/pybind11-subbuild/pybind11-populate-prefix/src/pybind11-populate-stamp/pybind11-populate-update	fe773bdd78dfcd70
+5432	5589	8063482328068670	pybind11-populate-prefix/src/pybind11-populate-stamp/pybind11-populate-patch	a802b64e3ab6bbe8
+5432	5589	8063482328068670	C:/Users/admin/Desktop/project 2/build/_deps/pybind11-subbuild/pybind11-populate-prefix/src/pybind11-populate-stamp/pybind11-populate-patch	a802b64e3ab6bbe8
+5589	5713	8063482329302924	pybind11-populate-prefix/src/pybind11-populate-stamp/pybind11-populate-configure	c82891387f4e8c73
+5589	5713	8063482329302924	C:/Users/admin/Desktop/project 2/build/_deps/pybind11-subbuild/pybind11-populate-prefix/src/pybind11-populate-stamp/pybind11-populate-configure	c82891387f4e8c73
+5713	5832	8063482330503855	pybind11-populate-prefix/src/pybind11-populate-stamp/pybind11-populate-build	2c49ca5393a3a6fb
+5713	5832	8063482330503855	C:/Users/admin/Desktop/project 2/build/_deps/pybind11-subbuild/pybind11-populate-prefix/src/pybind11-populate-stamp/pybind11-populate-build	2c49ca5393a3a6fb
+5833	5954	8063482331686357	pybind11-populate-prefix/src/pybind11-populate-stamp/pybind11-populate-install	4aa6b16536eab431
+5833	5954	8063482331686357	C:/Users/admin/Desktop/project 2/build/_deps/pybind11-subbuild/pybind11-populate-prefix/src/pybind11-populate-stamp/pybind11-populate-install	4aa6b16536eab431
+5954	6078	8063482332955425	pybind11-populate-prefix/src/pybind11-populate-stamp/pybind11-populate-test	7c262755a3e7ae4c
+5954	6078	8063482332955425	C:/Users/admin/Desktop/project 2/build/_deps/pybind11-subbuild/pybind11-populate-prefix/src/pybind11-populate-stamp/pybind11-populate-test	7c262755a3e7ae4c
+6078	6256	8063482334728444	CMakeFiles/pybind11-populate-complete	17deccda363b1bfa
+6078	6256	8063482334728444	pybind11-populate-prefix/src/pybind11-populate-stamp/pybind11-populate-done	17deccda363b1bfa
+6078	6256	8063482334728444	C:/Users/admin/Desktop/project 2/build/_deps/pybind11-subbuild/CMakeFiles/pybind11-populate-complete	17deccda363b1bfa
+6078	6256	8063482334728444	C:/Users/admin/Desktop/project 2/build/_deps/pybind11-subbuild/pybind11-populate-prefix/src/pybind11-populate-stamp/pybind11-populate-done	17deccda363b1bfa

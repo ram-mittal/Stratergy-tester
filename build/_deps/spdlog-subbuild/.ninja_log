@@ -1,0 +1,21 @@
+# ninja log v7
+3	119	8063482177199537	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	a3630fae64556a62
+3	119	8063482177199537	C:/Users/admin/Desktop/project 2/build/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	a3630fae64556a62
+120	2544	8063482201483866	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	8a9e1782e591ab1
+120	2544	8063482201483866	C:/Users/admin/Desktop/project 2/build/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	8a9e1782e591ab1
+2544	2642	8063482202456717	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	be9d68fa24f4ea55
+2544	2642	8063482202456717	C:/Users/admin/Desktop/project 2/build/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	be9d68fa24f4ea55
+2643	2737	8063482203402964	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	22843f5e61236da9
+2643	2737	8063482203402964	C:/Users/admin/Desktop/project 2/build/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	22843f5e61236da9
+2737	2832	8063482204337762	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	bbb5b62b7ffa2ec2
+2737	2832	8063482204337762	C:/Users/admin/Desktop/project 2/build/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	bbb5b62b7ffa2ec2
+2832	2929	8063482205327081	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	3d0aa65de128370f
+2832	2929	8063482205327081	C:/Users/admin/Desktop/project 2/build/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	3d0aa65de128370f
+2929	3041	8063482206422545	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	93d1c6790ce33851
+2929	3041	8063482206422545	C:/Users/admin/Desktop/project 2/build/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	93d1c6790ce33851
+3041	3137	8063482207399738	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	d7ff717d738f2e9
+3041	3137	8063482207399738	C:/Users/admin/Desktop/project 2/build/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	d7ff717d738f2e9
+3138	3294	8063482208963457	CMakeFiles/spdlog-populate-complete	83636f0d20607f2b
+3138	3294	8063482208963457	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	83636f0d20607f2b
+3138	3294	8063482208963457	C:/Users/admin/Desktop/project 2/build/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate-complete	83636f0d20607f2b
+3138	3294	8063482208963457	C:/Users/admin/Desktop/project 2/build/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	83636f0d20607f2b

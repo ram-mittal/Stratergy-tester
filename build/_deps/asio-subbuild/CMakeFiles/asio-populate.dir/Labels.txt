@@ -1,0 +1,14 @@
+# Target labels
+ asio-populate
+# Source files and their labels
+C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/CMakeFiles/asio-populate
+C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/CMakeFiles/asio-populate.rule
+C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/CMakeFiles/asio-populate-complete.rule
+C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-build.rule
+C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-configure.rule
+C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-download.rule
+C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-install.rule
+C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-mkdir.rule
+C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-patch.rule
+C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-test.rule
+C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-update.rule

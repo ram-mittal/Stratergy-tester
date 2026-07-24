@@ -1,0 +1,21 @@
+# ninja log v7
+5	156	8063482122492470	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	736044a1670706d5
+5	156	8063482122492470	C:/Users/admin/Desktop/project 2/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	736044a1670706d5
+157	3231	8063482153214077	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	cfe984c4ea2f2272
+157	3231	8063482153214077	C:/Users/admin/Desktop/project 2/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	cfe984c4ea2f2272
+3231	3370	8063482154640918	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	5abdf167fd941cd8
+3231	3370	8063482154640918	C:/Users/admin/Desktop/project 2/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	5abdf167fd941cd8
+3371	3523	8063482156040179	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	8d996a007a9a49a6
+3371	3523	8063482156040179	C:/Users/admin/Desktop/project 2/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	8d996a007a9a49a6
+3523	3672	8063482157612174	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	1d926f0f893347e
+3523	3672	8063482157612174	C:/Users/admin/Desktop/project 2/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	1d926f0f893347e
+3672	3803	8063482158961475	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	294bff520b097008
+3672	3803	8063482158961475	C:/Users/admin/Desktop/project 2/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	294bff520b097008
+3804	3928	8063482160171132	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	3905398e7531f84c
+3804	3928	8063482160171132	C:/Users/admin/Desktop/project 2/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	3905398e7531f84c
+3928	4041	8063482161340031	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	d12888dc420429fe
+3928	4041	8063482161340031	C:/Users/admin/Desktop/project 2/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	d12888dc420429fe
+4041	4203	8063482162888815	CMakeFiles/fmt-populate-complete	7afdc5ea51b6e82a
+4041	4203	8063482162888815	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	7afdc5ea51b6e82a
+4041	4203	8063482162888815	C:/Users/admin/Desktop/project 2/build/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	7afdc5ea51b6e82a
+4041	4203	8063482162888815	C:/Users/admin/Desktop/project 2/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	7afdc5ea51b6e82a

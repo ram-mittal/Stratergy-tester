@@ -1,0 +1,21 @@
+# ninja log v7
+3	102	8063481978972140	asio-populate-prefix/src/asio-populate-stamp/asio-populate-mkdir	8d60c8d00d606ee5
+3	102	8063481978972140	C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-mkdir	8d60c8d00d606ee5
+103	13097	8063482108903780	asio-populate-prefix/src/asio-populate-stamp/asio-populate-download	7861d2676f981443
+103	13097	8063482108903780	C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-download	7861d2676f981443
+13097	13207	8063482110011141	asio-populate-prefix/src/asio-populate-stamp/asio-populate-update	727c821e2dd63817
+13097	13207	8063482110011141	C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-update	727c821e2dd63817
+13208	13316	8063482111089596	asio-populate-prefix/src/asio-populate-stamp/asio-populate-patch	60c7626e934bd1a
+13208	13316	8063482111089596	C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-patch	60c7626e934bd1a
+13316	13427	8063482112199581	asio-populate-prefix/src/asio-populate-stamp/asio-populate-configure	f73eb9df31df7bda
+13316	13427	8063482112199581	C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-configure	f73eb9df31df7bda
+13427	13537	8063482113307398	asio-populate-prefix/src/asio-populate-stamp/asio-populate-build	8e50547f167fee91
+13427	13537	8063482113307398	C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-build	8e50547f167fee91
+13537	13644	8063482114368703	asio-populate-prefix/src/asio-populate-stamp/asio-populate-install	87f188913b6d2e44
+13537	13644	8063482114368703	C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-install	87f188913b6d2e44
+13645	13759	8063482115521721	asio-populate-prefix/src/asio-populate-stamp/asio-populate-test	bcc47c969cb45faa
+13645	13759	8063482115521721	C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-test	bcc47c969cb45faa
+13759	13907	8063482116978840	CMakeFiles/asio-populate-complete	368586d9fd25b236
+13759	13907	8063482116978840	asio-populate-prefix/src/asio-populate-stamp/asio-populate-done	368586d9fd25b236
+13759	13907	8063482116978840	C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/CMakeFiles/asio-populate-complete	368586d9fd25b236
+13759	13907	8063482116978840	C:/Users/admin/Desktop/project 2/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-done	368586d9fd25b236
